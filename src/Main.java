@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
-
+         // bare for at vise at vi har to grene
 
         String svar;
 
