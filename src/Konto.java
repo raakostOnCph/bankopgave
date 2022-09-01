@@ -28,4 +28,14 @@ private int saldo;
     {
         return saldo;
     }
+
+
+    public int inset(int i)
+    {
+        if (i > 0) {
+            saldo = saldo + i;
+        }
+
+        return saldo;
+    }
 }
